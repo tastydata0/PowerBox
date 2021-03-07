@@ -1,0 +1,5 @@
+cd /d E:/Python/PowerBox
+
+C:\Users\Alex\AppData\Local\Programs\Python\Python37\Scripts\pyinstaller.exe "E:\Python\PowerBox\core.py" --onefile --hidden-import=pyttsx3.drivers --hidden-import=pyttsx3.drivers.dummy --hidden-import=pyttsx3.drivers.espeak --hidden-import=pyttsx3.drivers.nsss --hidden-import=pyttsx3.drivers.sapi5
+
+C:\Users\Alex\AppData\Local\Programs\Python\Python37\Scripts\pyinstaller.exe "E:\Python\PowerBox\core.py" --hidden-import=pyttsx3.drivers --hidden-import=pyttsx3.drivers.dummy --hidden-import=pyttsx3.drivers.espeak --hidden-import=pyttsx3.drivers.nsss --hidden-import=pyttsx3.drivers.sapi5 --hidden-import=pyttsx3.drivers.* --noconsole --icon=E:\Python\PowerBox\powerboxBright.ico

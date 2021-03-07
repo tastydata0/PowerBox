@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>powerboxBright.png</file>
+    <file>powerbox.png</file>
+  </qresource>
+  <qresource prefix="bg">
+    <file>ffbg.png</file>
+    <file>image036.png</file>
+  </qresource>
+  <qresource prefix="result">
+    <file>right.png</file>
+  </qresource>
+  <qresource prefix="buttons">
+    <file>E:/Python/PowerBox/pause.png</file>
+    <file>E:/Python/PowerBox/run.png</file>
+    <file>E:/Python/PowerBox/delete.png</file>
+  </qresource>
+  <qresource prefix="header">
+    <file>powerboxGradient.png</file>
+    <file>powerboxGradient.png</file>
+    <file>powerboxGradient.png</file>
+  </qresource>
+</RCC>
