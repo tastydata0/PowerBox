@@ -1,5 +1,6 @@
 # PowerBox
 This program helps to work with a computer. It can recognize voice commands, search files, calculate mathematical expressions, recognize mouse gestures to do something in easier way, and much more!
+It's written on Python and Java, but with a lot of libs.
 Here is a presentation of it i used in a competitions:
 
 ![Powerbox_pages-to-jpg-0001](https://user-images.githubusercontent.com/76962395/110233016-58cf3900-7f32-11eb-8497-2b2e255a4267.jpg)
